@@ -9,4 +9,3 @@ I am a motivated web developer who is curiously looking forward to find my way i
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about django & DRF
 - ⚡ Fun fact: I love to read books with coffee 📚☕
--->
