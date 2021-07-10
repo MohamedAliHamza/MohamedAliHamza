@@ -29,7 +29,7 @@
  
 </p>
 
-## Connect with me:
+## Find me at:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/mohamedhz/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> &nbsp; &nbsp;
