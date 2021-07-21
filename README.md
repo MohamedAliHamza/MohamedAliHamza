@@ -11,7 +11,7 @@
 
 🤔 I’m looking for help with learning more about database 
 
-💬 Ask me about django & DRF
+💬 Ask me about Django & DRF
 
 ⚡ Fun fact: I love to read books with coffee 📚☕
 
