@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-🌱 I’m currently learning docker, redis and design patterns
+🌱 I’m currently learning SOLID principles and design patterns
 
 👯 I’m looking to collaborate on web dev
 
