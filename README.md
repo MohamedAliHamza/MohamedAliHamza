@@ -5,11 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-🌱 I’m currently learning design patterns
+🌱 I’m currently learning **Design Patterns** 
 
 👯 I’m looking to collaborate on web dev
-
-🤔 I’m looking for help with learning more about database 
 
 💬 Ask me about Django & DRF
 
