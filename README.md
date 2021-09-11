@@ -5,11 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-🌱 I’m currently learning **Design Patterns** 
+🌱  I’m currently practicing Python on LeetCode 💪
 
-👯 I’m looking to collaborate on web dev
-
-💬 Ask me about Django & DRF
+💬 Ask me about Python, Django & DRF 👩‍💻 
 
 ⚡ Fun fact: I love to read books with coffee 📚☕
 
