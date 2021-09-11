@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-🌱  I’m currently practicing Python on LeetCode 💪
+🌱  I’m currently practicing Python on LeetCode 🐍 💪
 
 💬 Ask me about Python, Django & DRF 👩‍💻 
 
