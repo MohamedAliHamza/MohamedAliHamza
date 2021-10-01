@@ -7,7 +7,7 @@
 
 🌱  I’m currently practicing Python on LeetCode 🐍 💪
 
-💬 Ask me about Python, Django & DRF 👩‍💻 
+💬 Ask me about Python, Django, and DRF 👩‍💻 
 
 ⚡ Fun fact: I love to read books with coffee 📚☕
 
