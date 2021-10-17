@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-🌱  I’m currently practicing Python on LeetCode 🐍 💪
+🌱  I’m currently practicing Python on LeetCode and learning some other stuff like Celery, Redis, and Rabbitmq 🐍 💪
 
-💬 Ask me about Python, Django, and DRF 👩‍💻 
+💬 Ask me about Python, Django, and DRF 👩‍💻 👌
 
 ⚡ Fun fact: I love to read books with coffee 📚☕
 
