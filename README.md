@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-🌱  I’m currently practicing Python on LeetCode and learning some other stuff like Celery, Redis, and Rabbitmq 🐍 💪
+🌱  I’m currently practicing Python and try to solve some problems using it 🐍 💪
 
 💬 Ask me about Python, Django, and DRF 👩‍💻 👌
 
