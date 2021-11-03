@@ -4,7 +4,7 @@
 </a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohamed Hamza</h1>
-<h3 align="center">I'm a Python/Django Developer</h3>
+<h3 align="center">I'm a Python / Django Developer</h3>
 
 ## 🙋‍♂️ About Me
 
