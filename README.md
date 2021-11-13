@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-🌱 I'm currently trying to improve myself in Python by solving problems on LeetCode, reading the docs, and more 🐍 💪
+🌱 I'm currently trying to improve myself in Python by solving problems on LeetCode, reading docs, and more 🐍 💪
 
 💬 Ask me about Python, Django, and DRF. if I know the answer, I will be happy to help you  👩‍💻 👌
 
