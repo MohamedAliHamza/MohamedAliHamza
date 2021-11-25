@@ -6,15 +6,15 @@
 <h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohamed Hamza</h1>
 <h3 align="center">I'm a Python Developer</h3>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About me
 
 🌱 I'm currently trying to improve myself in Python by solving problems on LeetCode, reading docs, and more 🐍 💪
 
 💬 Ask me about Python, Django, and DRF. if I know the answer, I will be happy to help you  👩‍💻 👌
 
-⚡ Fun fact: I love to read books while drinking coffee 📚 ☕
+⚡ Fun fact: I love to read books while drinking coffee 📚 ☕ 
 
-## 🚀 Languages and Tools: 
+## 🚀 Languages & Tools: 
 
 <p align="left"> 
  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a>
