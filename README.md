@@ -1,7 +1,7 @@
 <a href="https://github.com/MohamedAliHamza">
 
- <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" />
-</a>
+<!--  <img src="https://github.githubassets.com/images/modules/site/social-cards/github-social.png" />
+</a> -->
 
 <h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">, I'm Mohamed Hamza</h1>
 <h3 align="center">I'm a Python Developer</h3>
