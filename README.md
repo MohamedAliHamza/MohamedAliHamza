@@ -6,13 +6,6 @@
 <h1 align="center">Hi There<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">, I'm Mohamed Hamza</h1>
 <h3 align="center">I'm a Python Developer</h3>
 
-## 🙋‍♂️ About me
-
-🌱 I'm currently trying to improve myself in Python by solving problems on LeetCode, reading docs, and more 🐍 💪
-
-💬 Ask me about Python, Django, and DRF. if I know the answer, I will be happy to help you  👩‍💻 👌
-
-⚡ Fun fact: I love to read books while drinking coffee 📚 ☕ 
 
 ## 🚀 Languages & Tools: 
 
@@ -30,6 +23,5 @@
 <p align="left">
  &nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/mohamedhz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" /></a> &nbsp; &nbsp; <a href = "https://stackoverflow.com/users/10852413/mohamed-hamza?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" height="40"/></a> &nbsp;&nbsp; <a href = "https://twitter.com/MohamedHamza__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40" /></a> 
-
 
 </p>
